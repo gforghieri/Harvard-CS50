@@ -9,7 +9,7 @@
 - Implement **mario.c**, a program that prints Mario's half-pyramid of hashes of user-inputted height.
 - Implement a more difficult version of **mario.c**, a program that prints out a double half-pyramid of a specified height.
 - Implement **cash.c**, a program that asks the user how much change is owed (in $) and prints the minimum number of coins with which said change can be made.
-- Implement **credit.c** a program that determines whether a provided credit card number is valid according to Luhn’s algorithm. (VISA, MASTERCARD or AMEX)
+- Implement **credit.c** a program that determines whether a provided credit card number is valid according to Hans Peter Luhn's algorithm. (VISA, MASTERCARD or AMEX)
 
 ![Mario's pyramid](http://i.imgur.com/qfgSWU0.png)
 
