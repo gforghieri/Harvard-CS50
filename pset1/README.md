@@ -13,7 +13,7 @@
 
 ![Mario's pyramid](http://i.imgur.com/qfgSWU0.png)
 
-![Mario more comfortable](https://imgur.com/6JlGtRM)
+![Mario more comfortable](https://i.imgur.com/6JlGtRM.png)
 
 ![Change dispenser](http://i.imgur.com/xJDsuKI.png)
 
