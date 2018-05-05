@@ -11,3 +11,6 @@
 
 ![KingsRoad](https://pbs.twimg.com/media/DbjZ3rCWsAAXz3y.png)
 
+(Credit to RumbleGames (Rumble Entertainment) for the picture above.)
+This project is made solely for educational purposes.
+
