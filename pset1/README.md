@@ -11,10 +11,10 @@
 - Implement **cash.c**, a program that asks the user how much change is owed (in $) and prints the minimum number of coins with which said change can be made.
 - Implement **credit.c** a program that determines whether a provided credit card number is valid according to Hans Peter Luhn's algorithm. (VISA, MASTERCARD or AMEX)
 
-![Mario's pyramid](http://i.imgur.com/qfgSWU0.png)
+![Mario's pyramid](http://i.imgur.com/qfgSWU0.png) - **Mario half pyramid**
 
-![Mario more comfortable](https://i.imgur.com/6JlGtRM.png)
+![Mario more comfortable](https://i.imgur.com/6JlGtRM.png) - **Mario double pyramid**
 
-![Change dispenser](http://i.imgur.com/xJDsuKI.png)
+![Change dispenser](http://i.imgur.com/xJDsuKI.png) - **The concept of a change dipenser for which a program has been implemented**
 
-![Credit card checker program](https://i.imgur.com/8GVCsz3.jpg)
+![Credit card checker program](https://i.imgur.com/8GVCsz3.jpg) - **An example for the usage of the credit.c program**
