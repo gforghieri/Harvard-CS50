@@ -16,7 +16,11 @@
 
 ![Caesar's cipher](https://i.imgur.com/Kwi5GaY.jpg) - **Caesar's cipher usage**
 
+<br>
+
 ![Vigenère’s cipher](https://i.imgur.com/f7Ehovk.jpg) - **Vigenère’s cipher usage**
+
+<br>
 
 ![Crack](https://i.imgur.com/mpzmDf0.jpg) - **The program is able to crack the following hashes**
 
