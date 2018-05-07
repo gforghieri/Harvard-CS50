@@ -22,7 +22,7 @@
 
 <br>
 
-![Crack](https://i.imgur.com/mpzmDf0.jpg) - **The program is able to crack the following hashes**
+![Crack](https://i.imgur.com/mpzmDf0.jpg) - **The crack.c program is able to crack the following hashes**
 
 
 
