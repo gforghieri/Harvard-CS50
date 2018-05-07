@@ -4,7 +4,6 @@
 - Get comfortable with the CS50 Linux based IDE
 - Solve problems in C
 - Learn to use GitHub
-
 - Command line
 - Data types
 - Operators
