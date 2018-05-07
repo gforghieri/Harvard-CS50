@@ -1,17 +1,17 @@
 # [Problem Set 1: C](https://docs.cs50.net/2018/x/psets/1/pset1.html)
 
-### Objectives
+### Objectives and Key Results:
 - Get comfortable with the CS50 Linux based IDE
 - Solve problems in C
 - Learn to use GitHub
-- Command line
+- Command Line
 - Data types
 - Operators
 - Conditional Statements
 - Loops
 - Overflow
 
-### Projects
+### Projects:
 - Implement **mario.c**, a program that prints Mario's half-pyramid of hashes of user-inputted height.
 - Implement a more difficult version of **mario.c**, a program that prints out a double half-pyramid of a specified height.
 - Implement **cash.c**, a program that asks the user how much change is owed (in $) and prints the minimum number of coins with which said change can be made.
