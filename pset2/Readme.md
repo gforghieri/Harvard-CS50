@@ -12,13 +12,13 @@
 ### Projects
 - Implement **caesar.c**, implement a program that encrypts messages using Caesar’s cipher, per the below
 - Implement **vigenere.c**, a program that encrypts messages using Vigenère’s cipher, per the below.
-- Implement **cash.c**, a program that cracks passwords, per the below.
+- Implement **crack.c**, a program that cracks passwords, per the below.
 
-![Mario's pyramid](http://i.imgur.com/qfgSWU0.png) - **Mario half pyramid**
+![Caesar's cipher](https://i.imgur.com/Kwi5GaY.jpg) - **Caesar's cipher usage**
 
-![Mario more comfortable](https://i.imgur.com/6JlGtRM.png) - **Mario double pyramid**
+![Vigenère’s cipher](https://i.imgur.com/f7Ehovk.jpg) - **Vigenère’s cipher usage**
 
-![Change dispenser](http://i.imgur.com/xJDsuKI.png) - **The concept of a change dipenser for which a program has been implemented**
+![Crack](https://i.imgur.com/mpzmDf0.jpg) - **The program is able to crack the following hashes**
 
-![Credit card checker program](https://i.imgur.com/8GVCsz3.jpg) - **An example for the usage of the credit.c program**
+
 
