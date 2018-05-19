@@ -1,6 +1,6 @@
 # [Problem Set 2: Crypto](https://docs.cs50.net/2018/x/psets/2/pset2.html)
 
-### Objectives
+### Objectives and Key Results
 - Compiling & Debugging
 - Functions
 - Variables and Scope
