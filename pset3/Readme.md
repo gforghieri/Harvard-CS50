@@ -15,6 +15,5 @@
 ### Projects:
 - Implement **music.c**, a program that converts musical notes to frequencies and synthesizes songs.
 
-![Music](http://i.imgur.com/qfgSWU0.png) - **Mario half pyramid**
 
 
