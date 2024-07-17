@@ -1,5 +1,5 @@
 # Harvard University - CS50: Introduction to Computer Science on edX.org
-Problem sets and projects of **Giuliano Forghieri** for Harvard University's CS50 : Introduction to Computer Science course
+Problem sets and projects of **gforhieri** for Harvard University's CS50 : Introduction to Computer Science course
 
 ![CS50 Picture](https://goo.gl/mJwNUC)
 
